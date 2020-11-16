@@ -8,7 +8,7 @@ Second version of py file : cartepython2.py in progress, tends to upload two fil
                             possibility to choose two or many locations and visualize activity from all locations to others (arrows, texts...)
 
 Screen copies :
-- Plotting from cartepython.py
+- map_result.png : Plotting from cartepython.py
 - imports needed
 - error message on my airbus laptop when trying to install basemap.
 
