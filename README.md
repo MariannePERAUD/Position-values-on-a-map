@@ -9,7 +9,7 @@ Second version of py file : cartepython2.py in progress, tends to upload two fil
 
 Screen copies :
 - map_result.png : Plotting from cartepython.py
-- imports needed
+- packages_to_upload.png ; imports needed
 - error message on my airbus laptop when trying to install basemap.
 
 Excel file
